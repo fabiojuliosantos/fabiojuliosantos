@@ -1,7 +1,8 @@
 <h1 align="center">Olá 👋, me chamo Fábio Júlio!</h1>
 <h3 align="center"> :books: Sou estudante do curso de Tecnologia em Análise e Desenvolvimento de Sistemas no IFPE - Paulista</h3>
 
-- 🔭 Atualmente sou extensionista no projeto [Um jogo para divulgação do IFPE Campus Paulista](bit.ly/jogo-ifpe);
+- 🖥️ Atualmente, trabalho no projeto de pesquisa sobre agricultura periurbana no IPA
+- 🔭 Fui extensionista no projeto [Um jogo para divulgação do IFPE Campus Paulista](bit.ly/jogo-ifpe);
 
 - 💻 Sou apaixonado por desenvolvimento web, e tecnologias Mobile 📱;
 - :video_game: Entusiasta do mundo dos games, espero galgar conhecimento nesta área também.
