@@ -3,9 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fabiojuliosantos&label=Profile%20views&color=0e75b6&style=flat" alt="fabiojuliosantos" /> </p>
 
-- Atualmente trabalho em um [projeto do Instituto Agronômico de Pernambuco - IPA](http://ec2-44-192-111-70.compute-1.amazonaws.com/)
+- Atualmente atuo como desenvolvedor Trainee na [Elógica - Processamento de dados](https://www.elogica.info)
 
-- 🌱 Atualmente estou aprendendo **React, Tailwind CSS, Angular e Typescript.**
+- 🌱 Atualmente estou aprendendo **C#, .NET, Entity Framework e Identity Framework.**
+
+- Fui um dos desenvolvedores do [Portal de Agricultura Urbana e Periurbana do IPA](http://ec2-44-192-111-70.compute-1.amazonaws.com/) 
 
 - Fui um dos desenvolvedores do projeto [Um jogo para divulgação do IFPE Campus Paulista](http://bit.ly/jogo-ifpe)
 
