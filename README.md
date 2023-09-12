@@ -5,7 +5,7 @@
 
 - Atualmente atuo como Desenvolvedor Back-End Trainee na [Elógica - Processamento de dados](https://elogica.info/)
 
-- 🌱 Atualmente estou aprendendo **C#, .NET, Entity Framework e Identity Framework.**
+- 🌱 Atualmente estou aprendendo **C#, ASP.NET, Entity Framework e Identity Framework.**
 
 - Fui um dos desenvolvedores do [Portal de Agricultura Urbana e Periurbana do IPA](http://ec2-44-192-111-70.compute-1.amazonaws.com/) 
 
