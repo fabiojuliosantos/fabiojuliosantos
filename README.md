@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fabiojuliosantos&label=Profile%20views&color=0e75b6&style=flat" alt="fabiojuliosantos" /> </p>
 
-- Atualmente atuo como Desenvolvedor Back-End na [Elógica - Processamento de dados](https://elogica.info/)
+- Atualmente atuo como Analista de Desenvolvimento de Sistemas na [Elógica - Processamento de dados](https://elogica.info/)
 
 - Atualmente trabalho com **C#, ASP.NET, Entity Framework e Identity Framework.**
 
