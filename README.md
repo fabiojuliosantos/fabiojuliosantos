@@ -11,8 +11,6 @@
 
 - Fui um dos desenvolvedores do projeto [Um jogo para divulgação do IFPE Campus Paulista](http://bit.ly/jogo-ifpe)
 
-- 👨‍💻 Meus principais projetos estão disponíveis aqui no Github, ou no meu portfolio [http://fabiojuliosantos.github.io/portfolio](http://fabiojuliosantos.github.io/portfolio)
-
 - 📫 Se quiser me mandar um e-mail, sinta-se livre para fazê-lo. **fabiojulio.santos@protonmail.ch**
 
 <h3 align="left">Redes Sociais:</h3>
