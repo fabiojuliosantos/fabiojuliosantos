@@ -1,11 +1,11 @@
 <h1 align="center">Olá 👋, me chamo Fábio Júlio</h1>
-<h3 align="center">Sou estudante do curso de Tecnologia em Análise e Desenvolvimento de Sistemas no IFPE - Paulista</h3>
+<h3 align="center">Sou desenvolvedor de sistemas, atuando com a stack .NET</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fabiojuliosantos&label=Profile%20views&color=0e75b6&style=flat" alt="fabiojuliosantos" /> </p>
 
-- Atualmente atuo como Analista de Desenvolvimento de Sistemas na [Elógica - Processamento de dados](https://elogica.info/)
+- Atualmente atuo como Desenvolvedor .Net Pleno na [MSA TEC]([https://elogica.info/](https://www.linkedin.com/company/msatec/posts/?feedView=all))
 
-- Atualmente trabalho com **C#, ASP.NET, Entity Framework e Identity Framework.**
+- Atualmente trabalho com **C#, ASP.NET, NHibernate, Vue.JS e PostgreSQL.**
 
 - Fui um dos desenvolvedores do [Portal de Agricultura Urbana e Periurbana do IPA](http://ec2-44-192-111-70.compute-1.amazonaws.com/) 
 
